@@ -1,0 +1,5 @@
+# How many other items that each item should potentially swap textures/descriptions/sounds with. Higher values may yield slower performance.
+tmtrainer.swaps_per_item (Swaps per item) int 4 2 8
+
+# The seed used to initialize the seed for new worlds. This value is used to make the TMTRAINER random number generator consistent. Set to 0 for a random seed in each new world.
+tmtrainer.global_seed (Global seed) int 0 0 4294967295
